@@ -1,6 +1,6 @@
 ## HELLO SOU MATHEUS REIS
 
-- 🔭 Atualmente estou estagiando na AGIBANK 🏦
+- 🔭 Atualmente estou "estagiando" na AGIBANK 🏦
 - 🌱 Estou estudando JAVA e SPRING BOOT 🤓
 - 🤔 Preciso de ajuda em MySQL 🤯
 - 📫 E-mail: matheusdanireis ou Linkedln: Matheus Reis 📩
